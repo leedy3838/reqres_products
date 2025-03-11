@@ -20,4 +20,4 @@ spec:
           image: "user11acr.azurecr.io/order:v1"
           ports: 
             - 
-              containerPort: 80
+              containerPort: 8080
