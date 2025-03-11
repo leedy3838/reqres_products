@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         REGISTRY = 'user11acr.azurecr.io'
-        IMAGE_NAME = 'order'
+        IMAGE_NAME = 'product'
         AKS_CLUSTER = 'user11-aks'
         RESOURCE_GROUP = 'user11-rsrcgrp'
         AKS_NAMESPACE = 'default'
